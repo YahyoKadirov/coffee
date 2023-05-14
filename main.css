@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-bg{
+    background-image: url(https://images.pexels.com/photos/374147/pexels-photo-374147.jpeg?auto=compress&cs=tinysrgb&w=600);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#bg-box{
+    background-image: url("https://images.pexels.com/photos/773958/pexels-photo-773958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1    ");
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.about-banner{
+    background-image: url(.//images/laptop.jpeg);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.about-img{
+    margin-top: -100px
+}
+.card-header-one{
+    background-image: url(./images/laptop.jpeg);
+    width: 100%px;
+    height: 270px;
+    background-size: cover;
+}
+.contact-bg{
+    /* background-image: url(https://images.pexels.com/photos/4240503/pexels-photo-4240503.jpeg?auto=compress&cs=tinysrgb&w=600); */
+    width: 190px;
+    height: 400px;
+    background-repeat: no-repeat;
+}
